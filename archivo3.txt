@@ -1,0 +1,3 @@
+
+este es un archivo que se esta creando desde otra pc para revisar si la 
+conexion con el repositorio es efectiva
